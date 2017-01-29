@@ -7,3 +7,7 @@ You should be able to compile and run it using qtCreator 5.x on both linux and w
 
 ## License
 Please see LICENSE file.
+
+# This is not a standalone project!
+
+[hm_client](https://github.com/farb3yonddriv3n/hm_client) is part of [hearthmod software stack](https://github.com/hearthmod/hearthmod)
